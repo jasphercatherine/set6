@@ -1,6 +1,6 @@
-n=int(input())
-if(n%2!=0):
-	n=n-1
-	print(n)
+j=int(input())
+if(j%2!=0):
+  c=j-1
+  print(c)
 else:
-	print(x)
+  print(j)
